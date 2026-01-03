@@ -24,7 +24,7 @@ Fundamentals to programming in Python.
 - Algorithmic exercises (e.g. BMI calculator, secret word game, CPF validation and generator
 
 ### section-4
-Intermediate Python concepts, functions, data structures, modularization, functional programming patterns, and practical problem-solving.
+Intermediate Python concepts.
 
 - Defining and using functions (`def`, `return`)
 - Positional, keyword, default, positional-only and keyword-only arguments
@@ -49,7 +49,7 @@ Intermediate Python concepts, functions, data structures, modularization, functi
 - Algorithmic exercises (task list with undo/redo, CPF-related logic, data grouping, list operations)
 
 ### section-5 
-An introduction to Object-Oriented Programming in Python.
+Introduction to Object-Oriented Programming in Python.
 
 - Classes and objects
 - Instance attributes, class attributes, and object state
