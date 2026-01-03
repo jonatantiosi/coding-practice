@@ -75,3 +75,31 @@ Introduction to Object-Oriented Programming in Python.
 - Advanced iteration with `Iterable`, `Iterator`, and `Sequence`
 - Type hints and modern typing concepts (Python 3.11+ / 3.14+)
 - Practical OOP exercises combining abstraction, inheritance, encapsulation, and polymorphism (e.g. banking system domain)
+
+# section-6
+Practices using Python Modules and Libraries
+
+- Script execution control with `if __name__ == "__main__"`
+- Date and time manipulation with `datetime`, `timedelta`, timezones, and formatting
+- Calendar operations and localization (`calendar`, `locale`)
+- File system interaction with `os`, `os.path`, `shutil`, and `pathlib`
+- Directory traversal and file metadata (`os.listdir`, `os.walk`, `os.stat`)
+- JSON serialization and deserialization (`json.dump`, `json.load`, `TypedDict`)
+- CSV file processing (`csv.reader`, `csv.writer`, `DictReader`, `DictWriter`)
+- Random data generation (`random`, `secrets`)
+- Text templating with `string.Template`
+- Environment variables and configuration management (`os.environ`, `python-dotenv`)
+- Sending emails via SMTP
+- File compression and extraction with `zipfile`
+- Command-line arguments (`sys.argv`, `argparse`)
+- HTTP fundamentals and networking concepts
+- HTTP servers and client requests (`http.server`, `requests`)
+- Web scraping with `requests` and `BeautifulSoup`
+- Browser automation with Selenium (WebDriver, waits, element selection)
+- Executing external programs with `subprocess`
+- Jupyter Notebook usage and experimentation
+- Multithreading and parallel execution
+- PDF manipulation with `PyPDF2`
+- Data structures for queues and stacks (`collections.deque`)
+- Excel file manipulation with `openpyxl`
+- Image processing with Pillow
