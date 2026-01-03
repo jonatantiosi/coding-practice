@@ -1,0 +1,6 @@
+Success: Galaxy S23 esta ligado - Smartphone
+Success: iPhone 15 esta ligado - Smartphone
+Success: Galaxy S23 esta ligado - Smartphone
+Error: iPhone 15 esta desligado - Smartphone
+Success: Galaxy S23 esta ligado - Smartphone
+Error: iPhone 15 esta desligado - Smartphone

@@ -1,0 +1,1 @@
+'''Documentacao do modulo - Lorem Ipsum'''
