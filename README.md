@@ -2,6 +2,9 @@
 Contain exercises used for practicing multiple coding languages for university, online courses and/or personal studies.
 
 ## python-course
+Python 3: From Basic to Advanced
+(*Curso de Python 3 do básico ao avançado*)
+
 ### section-3
 Fundamentals to programming in Python.
 
