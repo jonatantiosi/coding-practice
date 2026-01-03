@@ -1,0 +1,1 @@
+$nome está devendo $valor.

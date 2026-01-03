@@ -1,0 +1,12 @@
+[
+  {
+    "Nome": "Camisa",
+    "Preco": 40,
+    "Tamanho": "G"
+  },
+  {
+    "Nome": "Calca",
+    "Preco": 30,
+    "Tamanho": "M"
+  }
+]
