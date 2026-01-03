@@ -3,6 +3,7 @@ Contain exercises used for practicing multiple coding languages for university, 
 
 ## python-3-udemy
 ### section-3
+Programming fundamentals
 
 - Python interpreter, modules, comments, and docstrings
 - Basic data types: `str`, `int`, `float`, `bool`
