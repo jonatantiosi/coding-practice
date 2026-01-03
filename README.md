@@ -21,3 +21,28 @@ Fundamentals to programming in Python
 - Nested loops and nested data structures
 - Basic debugging with VS Code
 - Algorithmic exercises (e.g. BMI calculator, secret word game, CPF validation and generator
+
+### section-4
+Intermediate Python concepts, functions, data structures, modularization, functional programming patterns, and practical problem-solving.
+
+- Defining and using functions (`def`, `return`)
+- Positional, keyword, default, positional-only and keyword-only arguments
+- Variable scope, namespaces, `global` and `nonlocal`
+- `*args` and `**kwargs`
+- Higher-order functions and first-class functions
+- Closures and functions returning functions
+- Dictionaries (`dict`): methods, shallow vs deep copy
+- Sets (`set`): operations, methods, and use cases
+- List, dict, and set comprehensions
+- Lambda functions and functional patterns (`map`, `filter`, `reduce`)
+- Iterables, iterators, generator expressions and generator functions
+- Error handling: `try`, `except`, `else`, `finally`, `raise`
+- Modules and packages (`import`, `__main__`, `__init__.py`, `sys.path`)
+- Decorators (basic, with parameters, and execution order)
+- Standard library tools (`itertools`, `functools`, `os`, `json`)
+- Recursion and recursion limits
+- Virtual environments (`venv`) and dependency management (`pip`, `requirements.txt`)
+- File handling and context managers (`with open`)
+- JSON serialization and persistence
+- Common Python pitfalls (mutable default arguments, truthy/falsy values)
+- Algorithmic exercises (task list with undo/redo, CPF-related logic, data grouping, list operations)
