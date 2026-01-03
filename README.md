@@ -3,7 +3,7 @@ Contain exercises used for practicing multiple coding languages for university, 
 
 ## python-3-udemy
 ### section-3
-Python interpreter, modules, comments, and docstrings
+- Python interpreter, modules, comments, and docstrings
 - Basic data types: `str`, `int`, `float`, `bool`
 - Type coercion and variables
 - Arithmetic operators and operator precedence
