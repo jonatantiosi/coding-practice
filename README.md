@@ -76,7 +76,7 @@ Introduction to Object-Oriented Programming in Python.
 - Type hints and modern typing concepts (Python 3.11+ / 3.14+)
 - Practical OOP exercises combining abstraction, inheritance, encapsulation, and polymorphism (e.g. banking system domain)
 
-# section-6
+### section-6
 Practices using Python Modules and Libraries
 
 - Script execution control with `if __name__ == "__main__"`
@@ -103,3 +103,6 @@ Practices using Python Modules and Libraries
 - Data structures for queues and stacks (`collections.deque`)
 - Excel file manipulation with `openpyxl`
 - Image processing with Pillow
+
+### section-7
+In progress...
