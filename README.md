@@ -1,7 +1,7 @@
 # coding-practice
 Contain exercises used for practicing multiple coding languages for university, online courses and/or personal studies.
 
-## python-3-udemy
+## python-course
 ### section-3
 Fundamentals to programming in Python.
 
