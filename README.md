@@ -1,5 +1,5 @@
 # coding-practice
-Contain exercises used for practicing multiple coding languages for university, online courses and/or personal studies as well as codes developed alongside classes.
+Contain exercises used for practicing multiple coding languages for university, online courses and/or personal studies as well as codes written during those classes.
 
 ## python-course
 Python 3: From Basic to Advanced
