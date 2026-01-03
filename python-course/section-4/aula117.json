@@ -1,0 +1,26 @@
+{
+  "pessoa1": {
+    "name": "Jonatan",
+    "surname": "Tiosi",
+    "age": 23,
+    "addresses": [
+      {
+        "line1": "av. brasil"
+      },
+      {
+        "line2": "av. sao paulo"
+      }
+    ]
+  },
+  "pessoa2": {
+    "name": "Miriam",
+    "surname": "Tiosi",
+    "age": 45
+  },
+  "teste1": [
+    1,
+    2,
+    3
+  ],
+  "teste2": true
+}

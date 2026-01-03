@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Jonatan",
+    "surname": "Tiosi",
+    "age": 23,
+    "addresses": [
+      {
+        "line1": "av. brasil"
+      },
+      {
+        "line2": "av. sao paulo"
+      }
+    ]
+  },
+  {
+    "name": "Miriam",
+    "surname": "Tiosi",
+    "age": 45
+  },
+  {
+    "name": "Marcio",
+    "surname": "Santana",
+    "age": 45
+  }
+]
